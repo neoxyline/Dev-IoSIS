@@ -1,3 +1,2 @@
-# indies
-
-Dev-app for Integrated System Information Services
+# ISIS
+Dev-app for Integrated Service Information System
